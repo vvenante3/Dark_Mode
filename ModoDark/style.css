@@ -1,0 +1,41 @@
+.header{
+    /* background-color: brown; */
+    height: 5rem;
+}
+.conteudo_principal{
+    height: 12cm;
+    display: flex;
+    justify-content:center;
+    gap: 2rem;
+}
+.texto1{
+    color: #777777;
+    font-size: 5em;
+    text-align:center;
+    margin-top: 5rem;
+        height: 12rem;
+}
+.coluna{
+    background-color: #000000;
+    margin-top: 1.5em;
+        height: 25em;
+        width: 0.3em;
+
+}
+.texto2{
+    color: #d81414;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 17rem ;
+        height: 6rem;
+}
+.autor{
+    font-size: 3em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+        height: 7rem;
+    align-items: center;
+}
